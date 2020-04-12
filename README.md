@@ -35,3 +35,7 @@
 ## 활동
 ### RxJava seminar
 * 2020.01 ~
+
+## ETC.
+### 이외의 Project
+### 수상경력
