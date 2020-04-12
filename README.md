@@ -3,16 +3,15 @@
 - `Github` - [Man-jae](https://github.com/Man-jae)
 - `Email` - alswo5052@gmail.com
 
+
 ## Career
-
-### [ImGATE](http://www.imgate.co.kr/)
-* 2018.04.16 ~
-
-* 가정용, 호텔용 도어락 컨트롤 앱 개발
+### [ImGATE (아임게이트)](http://www.imgate.co.kr/)
+* `기간` - 2018.04.16 ~
+* `Team` - Android 개발팀
+* `App` - 가정용, 호텔용 도어락 컨트롤 앱 개발
     * [OVAL Home (가정용)](https://play.google.com/store/apps/details?id=kr.co.imgate.home2.oval)
     * [OVAL Key (호텔용 - 사용자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.user2.oval)
     * [OVAL Staff (호텔용 - 관리자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.staff.oval)
-* Android 팀 소속
 
 ## Project
 
