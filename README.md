@@ -13,11 +13,7 @@
     * [OVAL Key (호텔용 - 사용자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.user2.oval)
     * [OVAL Staff (호텔용 - 관리자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.staff.oval)
 
-## Project
 
-### [스마트 체스](https://www.youtube.com/watch?v=zFee2g0167E)
-> raspberryPi 와 arduino, android 어플리케이션을 이용한 음성인식 스마트 체스 게임
-* 2017.11 ~ 2017.12
 ## Stack
 > 사용가능 기술/언어 입니다.
 
@@ -27,11 +23,15 @@
 - Realm
 - Git
 
-* 사용 기술
 
+## Project
+### [스마트체스](https://www.youtube.com/watch?v=zFee2g0167E)
+> Android App 과 arduino, raspberryPi 를 이용한 음성인식 스마트 체스
+* `기간` - 2017.11 ~ 2017.12
+* `인원` - 5명
+* `Role` - Android 및 체스 알고리즘 개발
 
 
 ## 활동
-
 ### RxJava seminar
 * 2020.01 ~
