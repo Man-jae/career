@@ -1,6 +1,7 @@
-## Introduce
-### 김민재 (Minjae Kim)
-- Android 개발자
+## **김민재** (Minjae Kim)
+- 안드로이드 2년차 개발자 
+- `Github` - [Man-jae](https://github.com/Man-jae)
+- `Email` - alswo5052@gmail.com
 
 ## Career
 
