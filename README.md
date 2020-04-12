@@ -18,10 +18,17 @@
 ### [스마트 체스](https://www.youtube.com/watch?v=zFee2g0167E)
 > raspberryPi 와 arduino, android 어플리케이션을 이용한 음성인식 스마트 체스 게임
 * 2017.11 ~ 2017.12
+## Stack
+> 사용가능 기술/언어 입니다.
+
+- Kotlin
+- Java
+- Retrofit
+- Realm
+- Git
 
 * 사용 기술
 
-## Stack
 
 
 ## 활동
