@@ -1,4 +1,8 @@
-## 경력사항
+## Introduce
+### 김민재 (Minjae Kim)
+- Android 개발자
+
+## Career
 
 ### [ImGATE](http://www.imgate.co.kr/)
 * 2018.04.16 ~
@@ -9,7 +13,7 @@
     * [OVAL Staff (호텔용 - 관리자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.staff.oval)
 * Android 팀 소속
 
-## 프로젝트
+## Project
 
 ### [스마트 체스](https://www.youtube.com/watch?v=zFee2g0167E)
 > raspberryPi 와 arduino, android 어플리케이션을 이용한 음성인식 스마트 체스 게임
@@ -17,7 +21,7 @@
 
 * 사용 기술
 
-## 보유기술
+## Stack
 
 
 ## 활동
