@@ -25,11 +25,8 @@
 
 
 ## Project
-### [스마트체스](https://www.youtube.com/watch?v=zFee2g0167E)
-> Android App 과 arduino, raspberryPi 를 이용한 음성인식 스마트 체스
-* `기간` - 2017.11 ~ 2017.12
-* `인원` - 5명
-* `Role` - Android 및 체스 알고리즘 개발
+> 현재까지 진행한 개인 및 팀 프로젝트 입니다.
+- [Smart Chess](project/smartchess.md)
 
 
 ## 활동
@@ -42,4 +39,4 @@
 * `기간` : 2017.07 ~ 2017.12
 * IoT (사물인터넷) 개발자 양성과정 수료 
 * Java, Android 및 Arduino, OracleDB 관련 교육 이수
-* 최우수상 수료작품 - [스마트체스](https://www.youtube.com/watch?v=zFee2g0167E)
+* 최우수상 수료작품 - [스마트체스](project/smartchess.md)
