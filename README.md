@@ -21,6 +21,8 @@
 - Java
 - Retrofit
 - Realm
+- Coroutine
+- RxJava/RxAndroid (학습중)
 - Git
 
 
