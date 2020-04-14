@@ -1,5 +1,5 @@
 # 김민재 (Minjae Kim)
-- 안드로이드 2년차 개발자 
+### 안드로이드 2년차 개발자 
 - `Github` : [Man-jae](https://github.com/Man-jae)
 - `Email` : alswo5052@gmail.com
 
@@ -16,7 +16,6 @@
 
 ## Stack
 > 사용가능 기술/언어 입니다.
-
 - Kotlin
 - Java
 - Retrofit
@@ -27,8 +26,8 @@
 
 
 ## Project
-> 현재까지 진행한 개인 및 팀 프로젝트 입니다.
-- [Smart Chess](project/smartchess.md)
+> 개인 및 팀으로 진행한 Android 프로젝트 입니다.
+- [Smart Chess [스마트체스]](project/smartchess.md)
 
 
 ## 활동
@@ -41,4 +40,4 @@
 * `기간` : 2017.07 ~ 2017.12
 * IoT (사물인터넷) 개발자 양성과정 수료 
 * Java, Android 및 Arduino, OracleDB 관련 교육 이수
-* 최우수상 수료작품 - [스마트체스](project/smartchess.md)
+* 최우수상 수료작품 - [Smart Chess [스마트체스]](project/smartchess.md)
