@@ -5,13 +5,9 @@
 
 
 ## Career
-### [ImGATE (아임게이트)](http://www.imgate.co.kr/)
-* `기간` : 2018.04.16 ~
-* `Team` : Android 개발팀
-* `App` : 가정용, 호텔용 도어락 컨트롤 앱
-    * [OVAL Home (가정용)](https://play.google.com/store/apps/details?id=kr.co.imgate.home2.oval)
-    * [OVAL Key (호텔용 - 사용자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.user2.oval)
-    * [OVAL Staff (호텔용 - 관리자 전용)](https://play.google.com/store/apps/details?id=kr.co.imgate.hospitality.staff.oval)
+> 2018년 부터 시작된 경력사항 입니다.
+- ImGATE (2018.04 ~ )
+- [자세히 보기](career/career.md)
 
 
 ## Stack
