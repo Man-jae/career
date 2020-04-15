@@ -1,4 +1,4 @@
-# 스마트체스
+# Smart Chess [스마트체스]
 > Android, arduino, raspberryPi 를 이용한 앱과 raspberryPi 간의 음성인식 스마트체스 입니다.  
 -  한국소프트웨어기술진흥협회 (KOSTA) 에서 진행한 팀 프로젝트 입니다.
   

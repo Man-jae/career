@@ -1,13 +1,13 @@
 # 김민재 (Minjae Kim)
-### 안드로이드 2년차 개발자 
+### 안드로이드 주니어 개발자 
 - `Github` : [Man-jae](https://github.com/Man-jae)
 - `Email` : alswo5052@gmail.com
 
 
 ## Career
 > 2018년 부터 시작된 경력사항 입니다.
-- ImGATE (2018.04 ~ )
-- [자세히 보기](career/career.md)
+- ImGATE (2018.04 ~ )  
+[자세히 보기](career/career.md)
 
 
 ## Stack
