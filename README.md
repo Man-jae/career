@@ -19,6 +19,7 @@
 - Coroutine
 - RxJava/RxAndroid (학습중)
 - Git
+- AAC (Room, ViewModel, LiveData)
 
 
 ## Project
