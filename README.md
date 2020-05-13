@@ -29,6 +29,7 @@
 
 ## Activity
 > 회사 이외 외부활동 입니다.
-- RxJava 세미나 (2020.01 ~ )
+- TEAM LazyRabbit (2020.05 ~) - 스터디 그룹
+- TEAM CWF (2020.01 ~ ) - 스터디 그룹
 - 한국소프트웨어기술진흥협회[KOSTA] (2017.02 ~ 2017.12)  
 [자세히 보기](activity/activity.md)
