@@ -23,7 +23,8 @@
 
 
 ## Project
-> 개인 및 팀으로 진행한 Android 프로젝트 입니다.
+> 공부 목적으로 진행한 개인 및 팀 프로젝트 입니다.
+- [여행록](https://github.com/CWT-Study/yeohanglog-android)
 - [Smart Chess [스마트체스]](project/smartchess.md)
 
 
