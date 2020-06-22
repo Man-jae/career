@@ -26,7 +26,8 @@
 
 ## Project
 > 공부 목적으로 진행한 개인 및 팀 프로젝트 입니다.
-- [여행록](https://github.com/CWT-Study/yeohanglog-android)
+- [기억하기 (메모앱)](https://github.com/Team-LazyRabbit/rememberize-android)
+- [여행록 (여행일정관리앱)](https://github.com/CWT-Study/yeohanglog-android)
 - [Smart Chess [스마트체스]](project/smartchess.md)
 
 
