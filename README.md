@@ -19,9 +19,10 @@
 - `Tools`    : Git, Github, Zeplin, Figma, Slack, Mantis
 
 👍 관심분야
-- 아키텍처 패턴 (MVVM, MVP, Clean Architecture)
-- ReactiveX (RxJava, RxKotlin, RxAndroid)
-- DI (Dagger2, Koin)
+- `아키텍처 패턴` : MVVM, MVP, Clean Architecture
+- `ReactiveX` : RxJava, RxKotlin, RxAndroid
+- `DI` : Dagger2, Koin
+- `Test` : Junit, Espresso
 
 
 ## Project
