@@ -26,6 +26,7 @@
 - Retrofit2 + Okhttp3
 - AAC (ViewModel, LiveData, Lifecycle)
 - Glide
+- Kakao login API
 - ~~Navigation~~ (`추가 예정`)
 - ~~DI(Dagger)~~ (`추가 예정`)
 
