@@ -15,7 +15,7 @@
 
 👍 보유기술
 - `Language` : Kotlin, Java
-- `Library`  : AAC, Coroutine, Realm, Retrofit2, Fresco
+- `Library`  : AAC, Coroutine, Realm, Retrofit2, Glide, Fresco
 - `Tools`    : Git, Github, Zeplin, Figma, Slack, Mantis
 
 👍 관심분야
