@@ -14,15 +14,31 @@
 > 사용가능한 기술 및 협업툴과 관심있는 분야 입니다.
 
 👍 보유기술
-- `Language` : Kotlin, Java
-- `Library`  : AAC, Coroutine, Realm, Retrofit2, Glide, Fresco
-- `Tools`    : Git, Github, Zeplin, Figma, Slack, Mantis
+- `Language`
+    - Kotlin, Java
+- `Library`
+    - AAC(Databinding, Room, ViewModel, LiveData, Lifecycle)
+    - Navigation
+    - Coroutine
+    - Realm
+    - Retrofit2 + OkHttp3
+    - Glide, Fresco
+- `Tools`
+    - Git
+    - Github
+    - Firebase (Firestore, Dynamic link, Crashlytics)
+    - Zeplin
+    - Figma
+    - Kibana
+    - Slack
+    - Mantis
 
-👍 관심분야
-- `아키텍처 패턴` : MVVM, MVP, Clean Architecture
-- `ReactiveX` : RxJava, RxKotlin, RxAndroid
-- `DI` : Dagger2, Koin
-- `Test` : Junit, Espresso
+👍 학습중인 관심분야
+- `ReactiveX` (RxJava, RxKotlin, RxAndroid) - 토이 프로젝트 적용중
+- Unit test & UI test (Junit, Espresso) - 토이 프로젝트 적용중
+- Architecture (MVP)
+- DI (Dagger2, Koin)
+- CircleCI
 
 
 ## Project
