@@ -14,9 +14,12 @@
 
 ## Stack
 - Kotlin
-- MVVM Pattern
+- MVVM Pattern, Clean Architecture
 - Coroutine (추후 RxKotlin 활용 예정)
-- AAC (ViewModel, Room, LiveData, Lifecycle)
+- AAC ViewModel
+- AAC LiveData
+- AAC Lifecycle
+- Room
 - Navigation
 - Glide
 - ~~DI(Dagger)~~ (`추후 추가 예정`)

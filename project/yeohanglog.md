@@ -24,7 +24,9 @@
 - RxJava, RxAndroid
 - Realm (LiveData 연동 구조)
 - Retrofit2 + Okhttp3
-- AAC (ViewModel, LiveData, Lifecycle)
+- AAC ViewModel
+- AAC LiveData
+- AAC Lifecycle
 - Glide
 - Kakao login API
 - ~~Navigation~~ (`추가 예정`)
