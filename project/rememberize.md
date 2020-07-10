@@ -1,9 +1,7 @@
 # 기억하기 (Rememberize)
 > MVVM 패턴 및 모던 안드로이드 기술 학습을 위해 진행한 메모 앱 프로젝트 입니다.
 
-<img src="../photo/rememberize_main.png" width="220">
-<img src="../photo/rememberize_memo.png" width="220">
-<img src="../photo/rememberize_setting.png" width="220">  
+<img src="../photo/rememberize_main.png" width="220"> <img src="../photo/rememberize_memo.png" width="220"> <img src="../photo/rememberize_setting.png" width="220">  
 
 ## 기간 
 - 2020.5 ~  (`진행중`)
