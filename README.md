@@ -3,16 +3,14 @@
 - `Github` : [Man-jae](https://github.com/Man-jae)
 - `Email` : alswo5052@gmail.com
 
-
+---
 ## Career
 > Android 주니어 개발자로의 시작을 알리는 경력사항 입니다.
 - ImGATE (2018.04 ~ 2020.04 / `2년 1개월`)  
 [자세히 보기](career/career.md)
 
-
+---
 ## Stack
-> 사용가능한 기술 및 협업툴과 관심있는 분야 입니다.
-
 👍 보유기술
 - `Language`
     - Kotlin, Java
@@ -40,16 +38,16 @@
 - DI (Dagger2, Koin)
 - CircleCI
 
-
+---
 ## Project
-> 공부 목적으로 진행한 개인 및 팀 프로젝트 입니다.
+> 개인 및 팀 토이 프로젝트
 - [기억하기 (메모앱)](project/rememberize.md)
 - [여행록 (여행일정관리앱)](project/yeohanglog.md)
 - [Smart Chess [스마트체스]](project/smartchess.md)
 
-
+---
 ## Activity
-> 회사 이외 외부활동 입니다.
+> 회사 이외 스터디그룹 및 기타 외부활동.
 - TEAM LazyRabbit (2020.05 ~) - 스터디 그룹
 - TEAM CWF (2020.01 ~ ) - 스터디 그룹
 - 한국소프트웨어기술진흥협회[KOSTA] (2017.02 ~ 2017.12)  
