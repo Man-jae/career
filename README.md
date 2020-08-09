@@ -32,8 +32,8 @@
     - Mantis
 
 👍 학습중인 관심분야
-- `ReactiveX` (RxJava, RxKotlin, RxAndroid) - 토이 프로젝트 적용중
-- Unit test & UI test (Junit, Espresso) - 토이 프로젝트 적용중
+- `ReactiveX` (RxJava, RxKotlin, RxAndroid)
+- Unit test & UI test (Junit, Espresso)
 - Architecture (MVP)
 - DI (Dagger2, Koin)
 - CircleCI
