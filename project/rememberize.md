@@ -3,25 +3,29 @@
 
 <img src="../photo/rememberize_main.png" width="220"> <img src="../photo/rememberize_memo.png" width="220"> <img src="../photo/rememberize_setting.png" width="220">  
 
-## 기간 
-- 2020.5 ~  (`진행중`)
+## Current Version
+- 1.1.0 (2020.11.08)
 
 ## 기능 
 - 메모 추가 및 수정, 삭제 기능
 - 메모 전체 삭제 기능
-- ~~정렬 기능~~ (`추가 예정`)
 
 ## Stack
+### Language
 - Kotlin
-- MVVM Pattern, Clean Architecture
-- Coroutine (추후 RxKotlin 활용 예정)
-- AAC ViewModel
-- AAC LiveData
-- AAC Lifecycle
+
+### Architecture
+- Clean Architecture
+- MVVM Pattern
+
+### Library
+- Coroutine
+- ViewModel
+- LiveData
+- Lifecycle
 - Room
 - Navigation
 - Glide
-- ~~DI(Dagger)~~ (`추후 추가 예정`)
 
-## Link
-- [기억하기 [Rememberize-android]](https://github.com/Team-LazyRabbit/rememberize-android)
+## PlayStore
+- [기억하기](https://play.google.com/store/apps/details?id=dev.lazyrabbit.rememberize)
