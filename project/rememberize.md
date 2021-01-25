@@ -4,11 +4,12 @@
 <img src="../photo/rememberize_main.png" width="220"> <img src="../photo/rememberize_memo.png" width="220"> <img src="../photo/rememberize_setting.png" width="220">  
 
 ## Current Version
-- 1.2.0 (2021.01.14)
+- 1.4.0 (2021.01.24)
 
 ## 기능 
 - 메모 추가 및 수정, 삭제 기능
 - 테마 설정 기능 (Light / Dark)
+- Pin 기능
 
 ## Stack
 ### Language
